@@ -132,9 +132,9 @@ AIArk 在設計上採用多層密碼學保護(含面向後量子的安全考量)
 
 ## 10. 聯絡與資源
 
-- 官方網站:[TBD]
+- 程式碼 / 公開資料:https://github.com/longku0615/aiark-public
 - 代幣(Solana testnet)Mint:`Ake9KTGSiJSPQgMCHyQKrCJ5d1jaRqFvvFrGqBLrQiMX`
-- 社群 / 文件 / 審計報告:[TBD]
+- 官方網站 / 社群 / 第三方審計報告:[待補]
 
 ---
 
